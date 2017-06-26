@@ -15,5 +15,5 @@ We had an idea in the UberEATS context and we developed it in order to understan
 
 ### UberFast
 
-<img src="img/uber_fast_logo.png" width="50%">
-<img src="img/home-presentation.png" width="50%">
+<img src="img/uber_fast_logo.png" width="20%"><img src="img/home-presentation.png" width="20%">
+
